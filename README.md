@@ -1,2 +1,4 @@
-# CV-Addendum
-The certification of IT-Academy with the recommendation letter.
+# CV Addendum
+
+[**Certification**](https://github.com/orangetomato/CV-Addendum/blob/master/Certification.jpg)  
+[**Recommendation**](https://github.com/orangetomato/CV-Addendum/blob/master/Recommendation.jpg)  
